@@ -1,0 +1,7 @@
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Examen 1 Progra 2\bin\Debug\Examen 1 Progra 2.exe.config
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Examen 1 Progra 2\bin\Debug\Examen 1 Progra 2.exe
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Examen 1 Progra 2\bin\Debug\Examen 1 Progra 2.pdb
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Examen 1 Progra 2\obj\Debug\Examen 1 Progra 2.csproj.AssemblyReference.cache
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Examen 1 Progra 2\obj\Debug\Examen 1 Progra 2.csproj.CoreCompileInputs.cache
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Examen 1 Progra 2\obj\Debug\Examen 1 Progra 2.exe
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Examen 1 Progra 2\obj\Debug\Examen 1 Progra 2.pdb
